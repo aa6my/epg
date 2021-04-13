@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>14</timespan>
+  <update>f</update>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  <channel update="f" site="fixed" site_id="
+  00:00-23:59
+  ##title:Channel Information Not Available
+  ##description: There are no channel informations for this channel yet
+  ####"
+  xmltv_id="CHN">Not Available</channel>
+    <channel update="i" site="astro.com.my" site_id="95" xmltv_id="101">TV1</channel>
+    <channel update="i" site="astro.com.my" site_id="103" xmltv_id="102">TV2</channel>
+    <channel update="i" site="astro.com.my" site_id="106" xmltv_id="103">TV3</channel>
+    <channel update="i" site="astro.com.my" site_id="193" xmltv_id="104">Astro Ria HD</channel>
+    <channel update="i" site="astro.com.my" site_id="316" xmltv_id="105">Astro Prima HD</channel>
+    <channel update="i" site="astro.com.my" site_id="315" xmltv_id="106">Astro Oasis HD</channel>
+    <channel update="i" site="astro.com.my" site_id="272" xmltv_id="107">Astro Warna HD</channel>
+    <channel update="i" site="astro.com.my" site_id="301" xmltv_id="108">Astro Citra HD</channel>
+    <channel update="i" site="astro.com.my" site_id="299" xmltv_id="109">Naura HD</channel>
+    <channel update="i" site="astro.com.my" site_id="403" xmltv_id="111">Go Shop 111</channel>
+    <channel update="i" site="astro.com.my" site_id="401" xmltv_id="112">Astro Rania HD</channel>
+    <channel update="i" site="astro.com.my" site_id="400" xmltv_id="113">Astro Aura HD</channel>
+    <channel update="i" site="astro.com.my" site_id="149" xmltv_id="114">Al-Hijrah</channel>
+    <channel update="i" site="astro.com.my" site_id="176" xmltv_id="115">ABO Movies Tayangan Hebat HD</channel>
+    <channel update="i" site="astro.com.my" site_id="365" xmltv_id="116">Colors Hindi HD</channel>
+    <channel update="i" site="astro.com.my" site_id="192" xmltv_id="118">Go Shop 118</channel>
+    <channel update="i" site="astro.com.my" site_id="294" xmltv_id="120">Go Shop GAAYA</channel>
+    <channel update="i" site="astro.com.my" site_id="429" xmltv_id="122">TVS</channel>
+    <channel update="i" site="astro.com.my" site_id="433" xmltv_id="123">Awesome TV</channel>
+    <channel update="i" site="astro.com.my" site_id="42" xmltv_id="129">Arabic Radio &amp; TV Variety</channel>
+    <channel update="i" site="astro.com.my" site_id="302" xmltv_id="140">NJOI TV</channel>
+    <channel update="i" site="astro.com.my" site_id="97" xmltv_id="146">TV Okey</channel>
+    <channel update="i" site="astro.com.my" site_id="93" xmltv_id="147">NTV7</channel>
+    <channel update="i" site="astro.com.my" site_id="115" xmltv_id="148">8TV</channel>
+    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="149">TV9</channel>
+    <channel update="i" site="astro.com.my" site_id="5" xmltv_id="201">Astro Vaanavil</channel>
+    <channel update="i" site="astro.com.my" site_id="167" xmltv_id="202">Astro Vinmeen HD</channel>
+    <channel update="i" site="astro.com.my" site_id="61" xmltv_id="203">Astro Vellithirai</channel>
+    <channel update="i" site="astro.com.my" site_id="47" xmltv_id="204">Makkal TV</channel>
+    <channel update="i" site="astro.com.my" site_id="4" xmltv_id="211">SUN TV</channel>
+    <channel update="i" site="astro.com.my" site_id="417" xmltv_id="212">Sun Music HD</channel>
+    <channel update="i" site="astro.com.my" site_id="51" xmltv_id="213">Chutti TV</channel>
+    <channel update="i" site="astro.com.my" site_id="67" xmltv_id="214">Adithya</channel>
+    <channel update="i" site="astro.com.my" site_id="357" xmltv_id="221">Star Vijay HD</channel>
+    <channel update="i" site="astro.com.my" site_id="298" xmltv_id="222">Colors Tamil HD</channel>
+    <channel update="i" site="astro.com.my" site_id="297" xmltv_id="223">Zee Tamil HD</channel>
+    <channel update="i" site="astro.com.my" site_id="177" xmltv_id="241">ABO Movies Thangathirai HD</channel>
+    <channel update="i" site="astro.com.my" site_id="178" xmltv_id="251">BollyOne HD</channel>
+    <channel update="i" site="astro.com.my" site_id="355" xmltv_id="300">iQIYI HD</channel>
+    <channel update="i" site="astro.com.my" site_id="202" xmltv_id="303">Go Shop 303</channel>
+    <channel update="i" site="astro.com.my" site_id="387" xmltv_id="304">Astro Xiao Tai Yang HD</channel>
+    <channel update="i" site="astro.com.my" site_id="98" xmltv_id="305">TVB Classic</channel>
+    <channel update="i" site="astro.com.my" site_id="182" xmltv_id="306">Astro AEC HD</channel>
+    <channel update="i" site="astro.com.my" site_id="183" xmltv_id="307">Astro Shuang Xing HD</channel>
+    <channel update="i" site="astro.com.my" site_id="158" xmltv_id="308">Astro Quan Jia HD</channel>
+    <channel update="i" site="astro.com.my" site_id="134" xmltv_id="309">Celestial Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="203" xmltv_id="310">TVB Jade</channel>
+    <channel update="i" site="astro.com.my" site_id="172" xmltv_id="311">Astro On Demand HD 311</channel>
+    <channel update="i" site="astro.com.my" site_id="388" xmltv_id="315">Star Chinese Channel HD</channel>
+    <channel update="i" site="astro.com.my" site_id="108" xmltv_id="316">CTI Asia</channel>
+    <channel update="i" site="astro.com.my" site_id="57" xmltv_id="317">TVB Entertainment News</channel>
+    <channel update="i" site="astro.com.my" site_id="415" xmltv_id="318">TVB News</channel>
+    <channel update="i" site="astro.com.my" site_id="383" xmltv_id="319">TVB Xing He HD</channel>
+    <channel update="i" site="astro.com.my" site_id="384" xmltv_id="320">TVBS Asia HD</channel>
+    <channel update="i" site="astro.com.my" site_id="187" xmltv_id="321">Celestial Classic Movies</channel>
+    <channel update="i" site="astro.com.my" site_id="414" xmltv_id="323">TVBS News</channel>
+    <channel update="i" site="astro.com.my" site_id="382" xmltv_id="325">Phoenix Chinese Channel HD</channel>
+    <channel update="i" site="astro.com.my" site_id="43" xmltv_id="326">Phoenix Info News HD</channel>
+    <channel update="i" site="astro.com.my" site_id="162" xmltv_id="333">Astro Hua Hee Dai HD</channel>
+    <channel update="i" site="astro.com.my" site_id="385" xmltv_id="334">CCTV4 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="87" xmltv_id="352">Astro On Demand 352</channel>
+    <channel update="i" site="astro.com.my" site_id="114" xmltv_id="353">Astro On Demand 353</channel>
+    <channel update="i" site="astro.com.my" site_id="65" xmltv_id="354">Astro On Demand 354</channel>
+    <channel update="i" site="astro.com.my" site_id="66" xmltv_id="55">Astro On Demand 355</channel>
+    <channel update="i" site="astro.com.my" site_id="161" xmltv_id="392">KBS World HD</channel>
+    <channel update="i" site="astro.com.my" site_id="133" xmltv_id="393">ONE HD</channel>
+    <channel update="i" site="astro.com.my" site_id="191" xmltv_id="394">Oh!K HD</channel>
+    <channel update="i" site="astro.com.my" site_id="190" xmltv_id="395">tvN HD</channel>
+    <channel update="i" site="astro.com.my" site_id="111" xmltv_id="398">NHK World</channel>
+	<channel update="i" site="astro.com.my" site_id="391" xmltv_id="401">Hits Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="251" xmltv_id="404">BOO HD</channel>
+    <channel update="i" site="astro.com.my" site_id="143" xmltv_id="411">HBO HD</channel>
+    <channel update="i" site="astro.com.my" site_id="337" xmltv_id="412">CINEMAX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="151" xmltv_id="413">FOX Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="170" xmltv_id="414">FOX Family Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="184" xmltv_id="415">FOX Action Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="274" xmltv_id="416">tvN Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="84" xmltv_id="501">Astro Awani</channel>
+    <channel update="i" site="astro.com.my" site_id="160" xmltv_id="502">BERNAMA</channel>
+    <channel update="i" site="astro.com.my" site_id="44" xmltv_id="503">CGTN</channel>
+    <channel update="i" site="astro.com.my" site_id="336" xmltv_id="511">CNN HD</channel>
+    <channel update="i" site="astro.com.my" site_id="366" xmltv_id="512">BBC World News HD</channel>
+    <channel update="i" site="astro.com.my" site_id="374" xmltv_id="513">Al Jazeera English HD</channel>
+    <channel update="i" site="astro.com.my" site_id="155" xmltv_id="514">Sky News HD</channel>
+    <channel update="i" site="astro.com.my" site_id="295" xmltv_id="515">CNA HD</channel>
+    <channel update="i" site="astro.com.my" site_id="41" xmltv_id="516">CNBC Asia</channel>
+    <channel update="i" site="astro.com.my" site_id="78" xmltv_id="517">Bloomberg TV HD</channel>
+    <channel update="i" site="astro.com.my" site_id="52" xmltv_id="518">ABC Australia</channel>
+    <channel update="i" site="astro.com.my" site_id="322" xmltv_id="550">Nat Geo Wild HD</channel>
+    <channel update="i" site="astro.com.my" site_id="140" xmltv_id="551">National Geographic HD</channel>
+    <channel update="i" site="astro.com.my" site_id="376" xmltv_id="552">Discovery Channel HD</channel>
+    <channel update="i" site="astro.com.my" site_id="136" xmltv_id="553">Discovery Asia HD</channel>
+    <channel update="i" site="astro.com.my" site_id="375" xmltv_id="554">Discovery Science HD</channel>
+    <channel update="i" site="astro.com.my" site_id="144" xmltv_id="555">History HD</channel>
+    <channel update="i" site="astro.com.my" site_id="377" xmltv_id="556">Animal Planet HD</channel>
+    <channel update="i" site="astro.com.my" site_id="59" xmltv_id="601">Astro Tutor TV UPSR</channel>
+    <channel update="i" site="astro.com.my" site_id="127" xmltv_id="602">Astro Tutor TV PT3</channel>
+    <channel update="i" site="astro.com.my" site_id="128" xmltv_id="603">Astro Tutor TV SPM</channel>
+    <channel update="i" site="astro.com.my" site_id="118" xmltv_id="610">Astro TVIQ</channel>
+    <channel update="i" site="astro.com.my" site_id="386" xmltv_id="611">Astro Ceria HD</channel>
+    <channel update="i" site="astro.com.my" site_id="432" xmltv_id="612">TA-DAA!</channel>
+    <channel update="i" site="astro.com.my" site_id="371" xmltv_id="615">Cartoon Network HD</channel>
+    <channel update="i" site="astro.com.my" site_id="370" xmltv_id="616">Nickelodeon HD</channel>
+    <channel update="i" site="astro.com.my" site_id="392" xmltv_id="617">Nickelodeon Junior</channel>
+    <channel update="i" site="astro.com.my" site_id="94" xmltv_id="618">Baby TV HD</channel>
+    <channel update="i" site="astro.com.my" site_id="430" xmltv_id="619">Boomerang HD</channel>
+    <channel update="i" site="astro.com.my" site_id="131" xmltv_id="701">AXN HD</channel>
+    <channel update="i" site="astro.com.my" site_id="296" xmltv_id="702">Hello HD</channel>
+    <channel update="i" site="astro.com.my" site_id="137" xmltv_id="703">FOXlife HD</channel>
+    <channel update="i" site="astro.com.my" site_id="180" xmltv_id="704">FOX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="157" xmltv_id="705">KIX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="179" xmltv_id="706">HITS HD</channel>
+    <channel update="i" site="astro.com.my" site_id="338" xmltv_id="707">TLC HD</channel>
+    <channel update="i" site="astro.com.my" site_id="153" xmltv_id="708">Food Network HD</channel>
+    <channel update="i" site="astro.com.my" site_id="91" xmltv_id="709">Asian Food Network HD</channel>
+    <channel update="i" site="astro.com.my" site_id="199" xmltv_id="710">Nat Geo People HD</channel>
+    <channel update="i" site="astro.com.my" site_id="270" xmltv_id="712">Warner TV HD</channel>
+    <channel update="i" site="astro.com.my" site_id="132" xmltv_id="713">FX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="369" xmltv_id="714">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="astro.com.my" site_id="198" xmltv_id="715">HGTV HD</channel>
+    <channel update="i" site="astro.com.my" site_id="367" xmltv_id="716">DMAX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="36" xmltv_id="718">MTV Asia HD</channel>
+    <channel update="i" site="astro.com.my" site_id="86" xmltv_id="719">Animax</channel>
+    <channel update="i" site="astro.com.my" site_id="308" xmltv_id="780">Astro UHD</channel>
+    <channel update="i" site="astro.com.my" site_id="206" xmltv_id="800">eGG Network HD</channel>
+    <channel update="i" site="astro.com.my" site_id="235" xmltv_id="801">Astro Arena HD</channel>
+    <channel update="i" site="astro.com.my" site_id="280" xmltv_id="810">ASSP PLUS</channel>
+    <channel update="i" site="astro.com.my" site_id="154" xmltv_id="811">Astro SuperSport HD</channel>
+    <channel update="i" site="astro.com.my" site_id="138" xmltv_id="812">Astro SuperSport 2 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="164" xmltv_id="813">Astro SuperSport 3 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="241" xmltv_id="814">Astro SuperSport 4 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="141" xmltv_id="815">FOX Sports HD</channel>
+    <channel update="i" site="astro.com.my" site_id="290" xmltv_id="816">FOX Sports 2 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="291" xmltv_id="817">FOX Sports 3 HD</channel>
+    <channel update="i" site="astro.com.my" site_id="236" xmltv_id="818">beIN Sports HD</channel>
+    <channel update="i" site="astro.com.my" site_id="313" xmltv_id="819">beIN Sports MAX HD</channel>
+    <channel update="i" site="astro.com.my" site_id="339" xmltv_id="820">Eurosport HD</channel>
+    <channel update="i" site="astro.com.my" site_id="194" xmltv_id="821">WWE Network HD</channel>
+    <channel update="i" site="astro.com.my" site_id="189" xmltv_id="822">Golf Channel HD</channel>
+    <channel update="i" site="astro.com.my" site_id="393" xmltv_id="823">RugbyPass TV HD</channel>
+    <channel update="i" site="astro.com.my" site_id="197" xmltv_id="824">Astro Cricket HD</channel>
+    <channel update="i" site="astro.com.my" site_id="17" xmltv_id="852">HITZ FM</channel>
+    <channel update="i" site="astro.com.my" site_id="15" xmltv_id="853">MY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="19" xmltv_id="854">LITE FM</channel>
+    <channel update="i" site="astro.com.my" site_id="18" xmltv_id="855">MIX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="14" xmltv_id="856">ERA FM</channel>
+    <channel update="i" site="astro.com.my" site_id="26" xmltv_id="857">SINAR FM</channel>
+    <channel update="i" site="astro.com.my" site_id="28" xmltv_id="858">MELODY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="30" xmltv_id="859">THR RAAGA</channel>
+    <channel update="i" site="astro.com.my" site_id="20" xmltv_id="860">CLASSIC ROCK</channel>
+    <channel update="i" site="astro.com.my" site_id="21" xmltv_id="861">GOLD</channel>
+    <channel update="i" site="astro.com.my" site_id="16" xmltv_id="862">OPUS</channel>
+    <channel update="i" site="astro.com.my" site_id="22" xmltv_id="863">THR GEGAR</channel>
+    <channel update="i" site="astro.com.my" site_id="23" xmltv_id="864">INDIA BEAT</channel>
+    <channel update="i" site="astro.com.my" site_id="24" xmltv_id="865">JAZZ</channel>
+    <channel update="i" site="astro.com.my" site_id="27" xmltv_id="866">OSAI</channel>
+    <channel update="i" site="astro.com.my" site_id="31" xmltv_id="867">BAYU</channel>
+    <channel update="i" site="astro.com.my" site_id="32" xmltv_id="868">KENYALANG</channel>
+    <channel update="i" site="astro.com.my" site_id="25" xmltv_id="869">NAS FM</channel>
+    <channel update="i" site="astro.com.my" site_id="29" xmltv_id="870">V FM</channel>
+    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="871">WAI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="312" xmltv_id="872">TRAXX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="311" xmltv_id="873">MINNAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="303" xmltv_id="874">AI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="310" xmltv_id="875">ASYIK FM</channel>
+    <channel update="i" site="astro.com.my" site_id="292" xmltv_id="876">ZAYAN</channel>
+    <channel update="i" site="astro.com.my" site_id="293" xmltv_id="877">GO XUAN</channel>
+    <channel update="i" site="astro.com.my" site_id="304" xmltv_id="878">Radio ARENA</channel>
+    <channel update="i" site="astro.com.my" site_id="266" xmltv_id="AGEC1">K-Plus HD</channel>
+    <channel update="i" site="astro.com.my" site_id="287" xmltv_id="AGEC3">DW English</channel>
+    <channel update="i" site="astro.com.my" site_id="289" xmltv_id="AGEC4">France24</channel>
+</settings>

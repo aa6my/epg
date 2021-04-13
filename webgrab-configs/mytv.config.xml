@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>14</timespan>
+  <update>f</update>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  <channel update="f" site="fixed" site_id="
+  00:00-23:59
+  ##title:Channel Information Not Available
+  ##description: There are no channel informations for this channel yet
+  ####"
+  xmltv_id="CHN">Not Available</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="225" xmltv_id="101">TV1</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="310" xmltv_id="102">TV2</channel>
+	<channel update="i" site="astro.com.my" site_id="106" xmltv_id="103">TV3</channel>
+	<channel update="i" site="astro.com.my" site_id="93" xmltv_id="107">NTV7</channel>
+    <channel update="i" site="astro.com.my" site_id="115" xmltv_id="108">8TV</channel>
+    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="109">TV9</channel>
+	<channel update="i" site="astro.com.my" site_id="149" xmltv_id="114">Al-Hijrah</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="517" xmltv_id="113">TV6</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="311" xmltv_id="110">TV Okey</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="312" xmltv_id="123">BERITA RTM</channel>
+    <channel update="i" site="myklik.rtm.gov.my" site_id="272" xmltv_id="111">TV SUKAN</channel>
+	<channel update="i" site="astro.com.my" site_id="160" xmltv_id="121">BERNAMA</channel>
+    <channel update="i" site="astro.com.my" site_id="294" xmltv_id="120">Go Shop GAAYA</channel>
+	<channel update="i" site="astro.com.my" site_id="433" xmltv_id="112">Awesome TV</channel>
+	<channel update="i" site="astro.com.my" site_id="25" xmltv_id="701">NASIONAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="29" xmltv_id="708">SABAH VFM</channel>
+    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="710">WAI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="312" xmltv_id="702">TRAXX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="311" xmltv_id="703">MINNAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="303" xmltv_id="704">AI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="310" xmltv_id="706">ASYIK FM</channel>
+</settings>
