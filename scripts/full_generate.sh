@@ -6,7 +6,7 @@ exp_date=`date '+%d-%m-%C%y' -d "$end_date+7 days"`
 cd /home/pi/.wg++
 cp /home/pi/.wg++/deploy/webgrab-configs/astro.config.xml WebGrab++.config.xml
 sudo ./run.sh
-mv guide.xml /home/pi/.wg++/commit/astro.xml
+mv guide.xml /home/pi/.wg++/deploy/astro.xml
 rm -rf WebGrab++.config.xml
 # Push astro.xml into Github
 cd /home/pi/.wg++/deploy/
@@ -22,7 +22,7 @@ echo "XML generation for astro.com.my successful."
 cd /home/pi/.wg++
 cp /home/pi/.wg++/deploy/webgrab-configs/unifitv.config.xml WebGrab++.config.xml
 sudo ./run.sh
-mv guide.xml /home/pi/.wg++/commit/unifitv.xml
+mv guide.xml /home/pi/.wg++/deploy/unifitv.xml
 rm -rf WebGrab++.config.xml
 # Push unifitv.xml into Github
 cd /home/pi/.wg++/deploy/
