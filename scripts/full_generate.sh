@@ -9,7 +9,7 @@ sudo ./run.sh
 mv guide.xml /home/pi/.wg++/commit/astro.xml
 rm -rf WebGrab++.config.xml
 # Push astro.xml into Github
-cd ~/.wg++/deploy/
+cd /home/pi/.wg++/deploy/
 git config user.email "tanyuxuan2005@gmail.com"
 git config user.name "pi@raspberrypi"
 git add .
@@ -25,7 +25,7 @@ sudo ./run.sh
 mv guide.xml /home/pi/.wg++/commit/unifitv.xml
 rm -rf WebGrab++.config.xml
 # Push unifitv.xml into Github
-cd ~/.wg++/deploy/
+cd /home/pi/.wg++/deploy/
 git config user.email "tanyuxuan2005@gmail.com"
 git config user.name "pi@raspberrypi"
 git add .
