@@ -1,6 +1,7 @@
 ::Windows Global Variables
 @echo off
 ::Set Variables (Admin required!)
+del 7d.txt /Q
 dateadd_mod 7
 set /p 7dtext= <7d.txt
 
