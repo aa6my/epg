@@ -1,1 +1,1 @@
-echo%date:~3,12% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT
+set current_generation_date=Generated at%date:~3,12% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT

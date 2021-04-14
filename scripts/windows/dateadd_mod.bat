@@ -63,7 +63,6 @@ CALL :GDate %NewJDate%
 :: Reformat the date to local format
 CALL :ReformatDate %GDate%
 ECHO %LDate% >> 7d.txt
-sed -i "${/./!d}" 7d.txt
 :: Return the result in a variable named after this batch file
 ENDLOCAL & SET %~n0=%LDate%
 GOTO:EOF
