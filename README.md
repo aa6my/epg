@@ -40,8 +40,12 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 - MYTV Broadcasting: Channel Number  
 ## Download Links / Links to copy into your IPTV player
 - Astro: https://weareblahs.github.io/epg/astro.xml
+  - Astro (Compressed): https://weareblahs.github.io/epg/compressed/astro.xml.gz
 - unifi TV: https://weareblahs.github.io/epg/unifitv.xml  
+  - unifi TV (Compressed): https://weareblahs.github.io/epg/compressed/unifitv.xml.gz
 - RTM Klik: https://weareblahs.github.io/epg/rtmklik.xml  
+  - RTM Klik (Compressed): https://weareblahs.github.io/epg/compressed/rtmklik.xml.gz
 - MYTV Broadcasting: https://weareblahs.github.io/epg/mytv.xml    
+  - MYTV Broadcasting (Compressed): https://weareblahs.github.io/epg/compressed/mytv.xml.gz
 # Extras
 No information available for any of your channels? Change the XMLTV ID to CHN to display a "Channel Information Not Available" notice on your EPG guide.
