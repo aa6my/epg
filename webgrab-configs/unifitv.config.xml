@@ -58,9 +58,11 @@
     <channel update="i" site="astro.com.my" site_id="137" xmltv_id="455">FOXlife HD</channel>
     <channel update="i" site="astro.com.my" site_id="180" xmltv_id="453">FOX HD</channel>
     <channel update="i" site="astro.com.my" site_id="132" xmltv_id="454">FX HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5021" xmltv_id="521">Travel Channel HD</channel>
     <channel update="i" site="epg.i-cable.com" site_id="317" xmltv_id="473">Blue Ant Entertainment</channel>
     <channel update="i" site="epg.i-cable.com" site_id="720" xmltv_id="512">BBC Lifestyle</channel>
     <channel update="i" site="epg.i-cable.com" site_id="721" xmltv_id="501">BBC Earth</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5040" xmltv_id="618">France 24 (French) </channel>
     <channel update="i" site="astro.com.my" site_id="36" xmltv_id="531">MTV</channel>
     <channel update="i" site="epg.i-cable.com" site_id="510" xmltv_id="550">Dreamworks</channel>
     <channel update="i" site="astro.com.my" site_id="370" xmltv_id="554">Nickelodeon HD</channel>
