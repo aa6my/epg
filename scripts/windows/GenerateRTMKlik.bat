@@ -4,7 +4,6 @@
 del 7d.txt /Q
 dateadd_mod 7
 set /p 7dtext= <7d.txt
-
 :: Start generating EPG for rtmklik
 :: Changing the directory from external HDD to Local Disk
 cd %USERPROFILE%\AppData\Local\WebGrab+Plus
