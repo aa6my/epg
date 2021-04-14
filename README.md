@@ -1,15 +1,15 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
 ## Currently encountered problems
-- Some channels unavailable on Astro.
 - Radio channels EPG unavailable on Astro.
-  - Seperating TV and radio might work, I'll test it soon.
-
+## Solved problems
+- Some channels unavailable on Astro.
+  - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
 ## Auto-update Bot Testing in Progress
 This repository is testing an automated updating progress, daily, through my own PC. Stay tuned for auto-update times.
 
 # About
-This repository is for Malaysian TV Channels (and some Southease Asian ones, too) and anyone can use it.
+This repository is for Malaysian TV Channels (and some Southeast Asian ones, too) and anyone can use it.
 
 # What to know before using this EPG
 - This EPG is free-of-charge and **NOT for sale** at any platforms! You can use these links for your YouTube tutorials, blogs, and more.
