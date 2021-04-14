@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>astro.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>14</timespan>
+  <update>f</update>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  <channel update="f" site="fixed" site_id="
+  00:00-23:59
+  ##title:Channel Information Not Available
+  ##description: There are no channel informations for this channel yet
+  ####"
+  xmltv_id="CHN">Not Available</channel>
+    <channel update="i" site="astro.com.my" site_id="17" xmltv_id="852">HITZ FM</channel>
+    <channel update="i" site="astro.com.my" site_id="15" xmltv_id="853">MY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="19" xmltv_id="854">LITE FM</channel>
+    <channel update="i" site="astro.com.my" site_id="18" xmltv_id="855">MIX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="14" xmltv_id="856">ERA FM</channel>
+    <channel update="i" site="astro.com.my" site_id="26" xmltv_id="857">SINAR FM</channel>
+    <channel update="i" site="astro.com.my" site_id="28" xmltv_id="858">MELODY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="30" xmltv_id="859">THR RAAGA</channel>
+    <channel update="i" site="astro.com.my" site_id="20" xmltv_id="860">CLASSIC ROCK</channel>
+    <channel update="i" site="astro.com.my" site_id="21" xmltv_id="861">GOLD</channel>
+    <channel update="i" site="astro.com.my" site_id="16" xmltv_id="862">OPUS</channel>
+    <channel update="i" site="astro.com.my" site_id="22" xmltv_id="863">THR GEGAR</channel>
+    <channel update="i" site="astro.com.my" site_id="23" xmltv_id="864">INDIA BEAT</channel>
+    <channel update="i" site="astro.com.my" site_id="24" xmltv_id="865">JAZZ</channel>
+    <channel update="i" site="astro.com.my" site_id="27" xmltv_id="866">OSAI</channel>
+    <channel update="i" site="astro.com.my" site_id="31" xmltv_id="867">BAYU</channel>
+    <channel update="i" site="astro.com.my" site_id="32" xmltv_id="868">KENYALANG</channel>
+    <channel update="i" site="astro.com.my" site_id="25" xmltv_id="869">NAS FM</channel>
+    <channel update="i" site="astro.com.my" site_id="29" xmltv_id="870">V FM</channel>
+    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="871">WAI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="312" xmltv_id="872">TRAXX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="311" xmltv_id="873">MINNAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="303" xmltv_id="874">AI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="310" xmltv_id="875">ASYIK FM</channel>
+    <channel update="i" site="astro.com.my" site_id="292" xmltv_id="876">ZAYAN</channel>
+    <channel update="i" site="astro.com.my" site_id="293" xmltv_id="877">GO XUAN</channel>
+    <channel update="i" site="astro.com.my" site_id="304" xmltv_id="878">Radio ARENA</channel>
+</settings>
