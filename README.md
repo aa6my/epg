@@ -1,8 +1,12 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
+## Currently encountered problems
+- Some channels unavailable on Astro.
+- Radio channels EPG unavailable on Astro.
+  - Seperating TV and radio might work, I'll test it soon.
 
 ## Auto-update Bot Testing in Progress
-This repository is testing an automated updating progress, daily, through my own Raspberry Pi 4. Stay tuned for auto-update times.
+This repository is testing an automated updating progress, daily, through my own PC. Stay tuned for auto-update times.
 
 # About
 This repository is for Malaysian TV Channels (and some Southease Asian ones, too) and anyone can use it.
