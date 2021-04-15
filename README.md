@@ -5,10 +5,12 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
 ## Solved problems
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
-## Auto-update Bot Testing in Progress
-This repository is testing an automated updating progress, daily, through my own PC. Stay tuned for auto-update times.
+## Auto-update bot information
+
+The auto-update process will run at everyday 3pm.
 
 # About
+
 This repository is for Malaysian TV Channels (and some Southeast Asian ones, too) and anyone can use it.
 
 # What to know before using this EPG
