@@ -43,7 +43,7 @@
     <channel update="i" site="singteltv.com.sg" site_id="5623" xmltv_id="311">Colors Tamil HD</channel>
     <channel update="i" site="astro.com.my" site_id="290" xmltv_id="707">FOX Sports 2 HD</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5652" xmltv_id="341">Colors</channel>
-    <channel update="i" site="astro.com.my" site_id="58" xmltv_id="708">FOX Sports 3</channel>
+    <channel update="i" site="astro.com.my" site_id="291" xmltv_id="708">FOX Sports 3</channel>
     <channel update="i" site="astro.com.my" site_id="151" xmltv_id="401">FOX Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="170" xmltv_id="403">FOX Family Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="184" xmltv_id="402">FOX Action Movies HD</channel>
@@ -63,7 +63,7 @@
     <channel update="i" site="epg.i-cable.com" site_id="720" xmltv_id="512">BBC Lifestyle</channel>
     <channel update="i" site="epg.i-cable.com" site_id="721" xmltv_id="501">BBC Earth</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5040" xmltv_id="652">France 24 (French) </channel>
-    <channel update="i" site="astro.com.my" site_id="36" xmltv_id="531">MTV</channel>
+    <channel update="i" site="astro.com.my" site_id="420" xmltv_id="531">MTV</channel>
     <channel update="i" site="epg.i-cable.com" site_id="510" xmltv_id="550">Dreamworks</channel>
     <channel update="i" site="astro.com.my" site_id="370" xmltv_id="554">Nickelodeon HD</channel>
     <channel update="i" site="astro.com.my" site_id="392" xmltv_id="552">Nickelodeon Jr HD</channel>
