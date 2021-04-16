@@ -70,7 +70,7 @@
     <channel update="i" site="epg.i-cable.com" site_id="517" xmltv_id="553">CBeebies</channel>
     <channel update="i" site="astro.com.my" site_id="430" xmltv_id="555">Boomerang HD</channel>
     <channel update="i" site="astro.com.my" site_id="94" xmltv_id="562">Baby TV HD</channel>
-    <channel update="i" site="astro.com.my" site_id="39" xmltv_id="601">BBC World News</channel>
+    <channel update="i" site="bbc.co.uk" site_id="433" xmltv_id="601">BBC World News</channel>
     <channel update="i" site="astro.com.my" site_id="101" xmltv_id="602">Al Jazeera English</channel>
     <channel update="i" site="astro.com.my" site_id="155" xmltv_id="603">Sky News HD</channel>
 </settings>

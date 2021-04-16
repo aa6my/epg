@@ -127,7 +127,7 @@
     <channel update="i" site="astro.com.my" site_id="160" xmltv_id="502">BERNAMA</channel>
     <channel update="i" site="astro.com.my" site_id="44" xmltv_id="503">CGTN</channel>
     <channel update="i" site="astro.com.my" site_id="336" xmltv_id="511">CNN HD</channel>
-    <channel update="i" site="astro.com.my" site_id="366" xmltv_id="512">BBC World News HD</channel>
+    <channel update="i" site="bbc.co.uk" site_id="433" xmltv_id="512">BBC World News HD</channel>
     <channel update="i" site="astro.com.my" site_id="374" xmltv_id="513">Al Jazeera English HD</channel>
     <channel update="i" site="astro.com.my" site_id="155" xmltv_id="514">Sky News HD</channel>
     <channel update="i" site="astro.com.my" site_id="295" xmltv_id="515">CNA HD</channel>
