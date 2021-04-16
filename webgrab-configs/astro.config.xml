@@ -102,6 +102,29 @@
     <channel update="i" site="astro.com.my" site_id="170" xmltv_id="414">FOX Family Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="184" xmltv_id="415">FOX Action Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="274" xmltv_id="416">tvN Movies HD</channel>
+    <channel update="i" site="astro.com.my" site_id="120" xmltv_id="492">Astro PPV (492)</channel>
+    <channel update="i" site="astro.com.my" site_id="125" xmltv_id="478">Astro PPV (478)</channel>
+    <channel update="i" site="astro.com.my" site_id="150" xmltv_id="487">Astro PPV (487)</channel>
+    <channel update="i" site="astro.com.my" site_id="152" xmltv_id="475">Astro PPV (475)</channel>
+    <channel update="i" site="astro.com.my" site_id="168" xmltv_id="490">Astro PPV (490)</channel>
+    <channel update="i" site="astro.com.my" site_id="169" xmltv_id="491">Astro PPV (491)</channel>
+    <channel update="i" site="astro.com.my" site_id="173" xmltv_id="477">Astro PPV (477)</channel>
+    <channel update="i" site="astro.com.my" site_id="174" xmltv_id="479">Astro PPV (479)</channel>
+    <channel update="i" site="astro.com.my" site_id="175" xmltv_id="472">Astro PPV (472)</channel>
+    <channel update="i" site="astro.com.my" site_id="238" xmltv_id="476">Astro PPV (476)</channel>
+    <channel update="i" site="astro.com.my" site_id="240" xmltv_id="489">Astro PPV (489)</channel>
+    <channel update="i" site="astro.com.my" site_id="242" xmltv_id="482">Astro PPV (482)</channel>
+    <channel update="i" site="astro.com.my" site_id="265" xmltv_id="483">Astro PPV (483)</channel>
+    <channel update="i" site="astro.com.my" site_id="360" xmltv_id="499">Astro PPV (499)</channel>
+    <channel update="i" site="astro.com.my" site_id="404" xmltv_id="485">Astro PPV (485)</channel>
+    <channel update="i" site="astro.com.my" site_id="413" xmltv_id="486">Astro PPV (486)</channel>
+    <channel update="i" site="astro.com.my" site_id="416" xmltv_id="488">Astro PPV (488)</channel>
+    <channel update="i" site="astro.com.my" site_id="120" xmltv_id="492">Astro PPV (492)</channel>
+    <channel update="i" site="astro.com.my" site_id="125" xmltv_id="478">Astro PPV (478)</channel>
+    <channel update="i" site="astro.com.my" site_id="142" xmltv_id="484">Astro PPV (484)</channel>
+    <channel update="i" site="astro.com.my" site_id="146" xmltv_id="474">Astro PPV (474)</channel>
+    <channel update="i" site="astro.com.my" site_id="148" xmltv_id="473">Astro PPV (473)</channel>
+    <channel update="i" site="astro.com.my" site_id="381" xmltv_id="498">Astro PPV (498)</channel>
     <channel update="i" site="astro.com.my" site_id="84" xmltv_id="501">Astro Awani</channel>
     <channel update="i" site="astro.com.my" site_id="160" xmltv_id="502">BERNAMA</channel>
     <channel update="i" site="astro.com.my" site_id="44" xmltv_id="503">CGTN</channel>
@@ -166,6 +189,32 @@
     <channel update="i" site="astro.com.my" site_id="189" xmltv_id="822">Golf Channel HD</channel>
     <channel update="i" site="astro.com.my" site_id="393" xmltv_id="823">RugbyPass TV HD</channel>
     <channel update="i" site="astro.com.my" site_id="197" xmltv_id="824">Astro Cricket HD</channel>
+    <channel update="i" site="astro.com.my" site_id="15" xmltv_id="853>MY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="19" xmltv_id="854">LITE FM</channel>
+    <channel update="i" site="astro.com.my" site_id="18" xmltv_id="855">MIX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="14" xmltv_id="856">ERA FM</channel>
+    <channel update="i" site="astro.com.my" site_id="26" xmltv_id="857">SINAR FM</channel>
+    <channel update="i" site="astro.com.my" site_id="28" xmltv_id="858">MELODY FM</channel>
+    <channel update="i" site="astro.com.my" site_id="30" xmltv_id="859">THR RAAGA</channel>
+    <channel update="i" site="astro.com.my" site_id="20" xmltv_id="860">CLASSIC ROCK</channel>
+    <channel update="i" site="astro.com.my" site_id="21" xmltv_id="861">GOLD</channel>
+    <channel update="i" site="astro.com.my" site_id="16" xmltv_id="862">OPUS</channel>
+    <channel update="i" site="astro.com.my" site_id="22" xmltv_id="863">THR GEGAR</channel>
+    <channel update="i" site="astro.com.my" site_id="23" xmltv_id="864">INDIA BEAT</channel>
+    <channel update="i" site="astro.com.my" site_id="24" xmltv_id="865">JAZZ</channel>
+    <channel update="i" site="astro.com.my" site_id="27" xmltv_id="866">OSAI</channel>
+    <channel update="i" site="astro.com.my" site_id="31" xmltv_id="867">BAYU</channel>
+    <channel update="i" site="astro.com.my" site_id="32" xmltv_id="868">KENYALANG</channel>
+    <channel update="i" site="astro.com.my" site_id="25" xmltv_id="869">NAS FM</channel>
+    <channel update="i" site="astro.com.my" site_id="29" xmltv_id="870">V FM</channel>
+    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="871">WAI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="312" xmltv_id="872">TRAXX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="311" xmltv_id="873">MINNAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="303" xmltv_id="874">AI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="310" xmltv_id="875">ASYIK FM</channel>
+    <channel update="i" site="astro.com.my" site_id="292" xmltv_id="876">ZAYAN</channel>
+    <channel update="i" site="astro.com.my" site_id="293" xmltv_id="877">GO XUAN</channel>
+    <channel update="i" site="astro.com.my" site_id="304" xmltv_id="878">Radio ARENA</channel>
     <channel update="i" site="astro.com.my" site_id="266" xmltv_id="AGEC1">K-Plus HD</channel>
     <channel update="i" site="astro.com.my" site_id="287" xmltv_id="AGEC3">DW English</channel>
     <channel update="i" site="astro.com.my" site_id="289" xmltv_id="AGEC4">France24</channel>
