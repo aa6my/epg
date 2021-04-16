@@ -31,8 +31,8 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 
 # Current Channel Statistics
 ## Total Channels
-- Astro: 172
-- unifi TV: 47
+- Astro: 192 (including Astro First, Astro Best and Radio Channels)
+- unifi TV: 47 (Partial Channels Only)
 - RTM Klik: 8
 - MYTV Broadcasting: 21  
 ## Channel Source
