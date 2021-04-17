@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CHN">
     <display-name lang="en">Not Available</display-name>
-    <url>http://www.fixed</url>
   </channel>
   <channel id="101">
     <display-name lang="en">TV1</display-name>
@@ -5333,6 +5332,881 @@
     <episode-num system="onscreen">E38</episode-num>
   </programme>
   <programme start="20210419053000 +0800" stop="20210419060000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Subuh</title>
+    <desc lang="en">Saksikan himpunan video klip selawat, lagu Ketuhanan dan pelbagai kapsul menarik yang memaparkan perkongsian ilmu agama.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419060000 +0800" stop="20210419070000 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E314</episode-num>
+  </programme>
+  <programme start="20210419070000 +0800" stop="20210419092800 +0800" channel="114">
+    <title lang="en">Assalamualaikum (L)</title>
+    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419092800 +0800" stop="20210419093000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210419093000 +0800" stop="20210419100000 +0800" channel="114">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Saksikan Rancangan Home Shopping Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210419100000 +0800" stop="20210419110000 +0800" channel="114">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419110000 +0800" stop="20210419113000 +0800" channel="114">
+    <title lang="en">Jom Shoppe</title>
+    <desc lang="en">Saksikan Rancangan Jom Shoppe Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20210419113000 +0800" stop="20210419120000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210419120000 +0800" stop="20210419130000 +0800" channel="114">
+    <title lang="en">My #Qurantime (L)</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419130000 +0800" stop="20210419130200 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210419130200 +0800" stop="20210419133000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Zohor</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419133000 +0800" stop="20210419140000 +0800" channel="114">
+    <title lang="en">Jejak Bumi Anbiya</title>
+    <desc lang="en">Sebuah dokumentari yang merintis dan merungkai kronologi peristiwa penting dalam sejarah kehidupan dan perjalanan dakwah Nabi Musa AS di bumi Kan'an (Mesir).(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210419140000 +0800" stop="20210419150000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419150000 +0800" stop="20210419152800 +0800" channel="114">
+    <title lang="en">Selamat Malam Kekasih</title>
+    <desc lang="en">Maya masih tidak dapat melupakan arwah suaminya Farhan. Pada masa yang sama dia bertemu dengan Misyal, seorang graduan UIA yang mengambil jurusan syariah. Abang iparnya juga cuba memikat Maya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210419152800 +0800" stop="20210419153000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210419153000 +0800" stop="20210419160000 +0800" channel="114">
+    <title lang="en">Kafa D Hijrah</title>
+    <desc lang="en">Pembelajaran Kelas Al-Quran dan Fardu Ain (KAFA) disiarkan di kaca tv alhijrah dengan merealisasikan sebuah Pelan TV pendidikan KAFA untuk tahun 1 - 6.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E31</episode-num>
+  </programme>
+  <programme start="20210419160000 +0800" stop="20210419163000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210419163000 +0800" stop="20210419170000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210419170000 +0800" stop="20210419172500 +0800" channel="114">
+    <title lang="en">My Hadith</title>
+    <desc lang="en">My #HadithTime akan diterbitkan untuk menambah sumber rujukan kita. Hadis adalah sumber rujukan kedua selepas al-Quran.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20210419172500 +0800" stop="20210419173000 +0800" channel="114">
+    <title lang="en">Waktu Berbuka 2021</title>
+    <desc lang="en">Waktu Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210419173000 +0800" stop="20210419175500 +0800" channel="114">
+    <title lang="en">Kasih Kenyalang</title>
+    <desc lang="en">Sebuah majalah/dokumentari penuh inspirasi memaparkan kisah sebenar kehidupan golongan yang memerlukan bantuan dan perhatian yang mana mereka perlu dibantu dan dibimbing.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210419175500 +0800" stop="20210419180000 +0800" channel="114">
+    <title lang="en">Ekpsress Iftar</title>
+    <desc lang="en">Sebuah kapsul masakan dengan menu ringkas dan mudah, sesuai ketika kesuntukan masa.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210419180000 +0800" stop="20210419182500 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Kompilasi program masakan yang ringkas untuk tontonan penonton TV ALhijrah.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210419182500 +0800" stop="20210419183000 +0800" channel="114">
+    <title lang="en">Hijrah Skuad Bubur Lambuk</title>
+    <desc lang="en">Kapsul edaran bubur lambuk oleh Hijrah Skuad Bubur Lambuk.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210419183000 +0800" stop="20210419185800 +0800" channel="114">
+    <title lang="en">Camca X Limau Nipis</title>
+    <desc lang="en">Camca ini adalah kombinasi program masakan Chef Nabil dan youtuber terkenal Limau Nipis.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210419185800 +0800" stop="20210419190000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210419190000 +0800" stop="20210419190500 +0800" channel="114">
+    <title lang="en">Andai Ini Ramadan Terakhir</title>
+    <desc lang="en">Drama pendek yang membawakan tema Andai Ini Ramadan Terakhir untuk memberi kesedaran kepada masyarakat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210419190500 +0800" stop="20210419193000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Maghrib</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419193000 +0800" stop="20210419200000 +0800" channel="114">
+    <title lang="en">Cinta Ilmu</title>
+    <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20210419200000 +0800" stop="20210419203000 +0800" channel="114">
+    <title lang="en">Berita Alhijrah (L)</title>
+    <desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210419203000 +0800" stop="20210419205500 +0800" channel="114">
+    <title lang="en">Berjuta Rahsia Al Quran</title>
+    <desc lang="en">Sebuah program dakwah ilmiah berkenaan Al Quran dan fadilatnya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210419205500 +0800" stop="20210419210000 +0800" channel="114">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210419210000 +0800" stop="20210419213000 +0800" channel="114">
+    <title lang="en">My H.A.U.S</title>
+    <desc lang="en">Program CSR mendekati masyarakat Asnaf yang memerlukan pembaikian rumah mereka dengan memberi fokus kepada golongan tua dan kurang upaya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210419213000 +0800" stop="20210419220000 +0800" channel="114">
+    <title lang="en">Tijarah</title>
+    <desc lang="en">Bual bicara mengenai kewangan Islam yang mengupas pelbagai aspek yang pastinya dekat dengan isu-isu yang dihadapi oleh semua penonton.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210419220000 +0800" stop="20210419223000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210419223000 +0800" stop="20210419230000 +0800" channel="114">
+    <title lang="en">Jom Tarannum</title>
+    <desc lang="en">Sebuah program yang mengajar alunan bacaan tarannum asas yang dibaca oleh qari dan qariah malaysia dengan bacaan dan sebutan tajwid yang betul .(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210419230000 +0800" stop="20210419235500 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E315</episode-num>
+  </programme>
+  <programme start="20210419235500 +0800" stop="20210420000000 +0800" channel="114">
+    <title lang="en">Waktu Imsak &amp; Berbuka 2021</title>
+    <desc lang="en">Waktu Imsak and Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210420000000 +0800" stop="20210420010000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420010000 +0800" stop="20210420030000 +0800" channel="114">
+    <title lang="en">Solat Terawih Masjidil Haram</title>
+    <desc lang="en">Siaran Langsung Solat terawih dari Masjidil Haram.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420030000 +0800" stop="20210420033000 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Sebuah program dakwah ilmiah yang akan mengupas mengenai fadihilat di bulan Ramadan dengan lebih jelas.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210420033000 +0800" stop="20210420043000 +0800" channel="114">
+    <title lang="en">Majlis Ayah</title>
+    <desc lang="en">Program sejam berinteraksi bersama Al-Quran dalam misi #SavingFamilies sempena bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210420043000 +0800" stop="20210420053000 +0800" channel="114">
+    <title lang="en">30 Hari Khatam</title>
+    <desc lang="en">Bersama-sama kita membaca Alquran dengan azam berjaya khatam Al quran di bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E44</episode-num>
+  </programme>
+  <programme start="20210420053000 +0800" stop="20210420060000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Subuh</title>
+    <desc lang="en">Saksikan himpunan video klip selawat, lagu Ketuhanan dan pelbagai kapsul menarik yang memaparkan perkongsian ilmu agama.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420060000 +0800" stop="20210420070000 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E315</episode-num>
+  </programme>
+  <programme start="20210420070000 +0800" stop="20210420092800 +0800" channel="114">
+    <title lang="en">Assalamualaikum (L)</title>
+    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420092800 +0800" stop="20210420093000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210420093000 +0800" stop="20210420100000 +0800" channel="114">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Saksikan Rancangan Home Shopping Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210420100000 +0800" stop="20210420103000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420103000 +0800" stop="20210420110000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420110000 +0800" stop="20210420113000 +0800" channel="114">
+    <title lang="en">Jom Shoppe</title>
+    <desc lang="en">Saksikan Rancangan Jom Shoppe Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20210420113000 +0800" stop="20210420120000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210420120000 +0800" stop="20210420130000 +0800" channel="114">
+    <title lang="en">My #Qurantime (L)</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420130000 +0800" stop="20210420130200 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210420130200 +0800" stop="20210420133000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Zohor</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420133000 +0800" stop="20210420140000 +0800" channel="114">
+    <title lang="en">Jejak Bumi Anbiya</title>
+    <desc lang="en">Sebuah dokumentari yang merintis dan merungkai kronologi peristiwa penting dalam sejarah kehidupan dan perjalanan dakwah Nabi Musa AS di bumi Kan'an (Mesir).(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210420140000 +0800" stop="20210420150000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420150000 +0800" stop="20210420152800 +0800" channel="114">
+    <title lang="en">Selamat Malam Kekasih</title>
+    <desc lang="en">Maya masih tidak dapat melupakan arwah suaminya Farhan. Pada masa yang sama dia bertemu dengan Misyal, seorang graduan UIA yang mengambil jurusan syariah. Abang iparnya juga cuba memikat Maya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20210420152800 +0800" stop="20210420153000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210420153000 +0800" stop="20210420160000 +0800" channel="114">
+    <title lang="en">Kafa D Hijrah</title>
+    <desc lang="en">Pembelajaran Kelas Al-Quran dan Fardu Ain (KAFA) disiarkan di kaca tv alhijrah dengan merealisasikan sebuah Pelan TV pendidikan KAFA untuk tahun 1 - 6.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20210420160000 +0800" stop="20210420163000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210420163000 +0800" stop="20210420170000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210420170000 +0800" stop="20210420172500 +0800" channel="114">
+    <title lang="en">My Hadith</title>
+    <desc lang="en">My #HadithTime akan diterbitkan untuk menambah sumber rujukan kita. Hadis adalah sumber rujukan kedua selepas al-Quran.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20210420172500 +0800" stop="20210420173000 +0800" channel="114">
+    <title lang="en">Waktu Berbuka 2021</title>
+    <desc lang="en">Waktu Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210420173000 +0800" stop="20210420175500 +0800" channel="114">
+    <title lang="en">Haflah</title>
+    <desc lang="en">Majlis bacaan Al-Quran yang dengan pelbagai Tarannum seperti, Bayaati, Nahwan dan Hijaz yang disampai oleh Qari-Qari Malaysia.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20210420175500 +0800" stop="20210420180000 +0800" channel="114">
+    <title lang="en">Ekpsress Iftar</title>
+    <desc lang="en">Sebuah kapsul masakan dengan menu ringkas dan mudah, sesuai ketika kesuntukan masa.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210420180000 +0800" stop="20210420182500 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Kompilasi program masakan yang ringkas untuk tontonan penonton TV ALhijrah.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210420182500 +0800" stop="20210420183000 +0800" channel="114">
+    <title lang="en">Hijrah Skuad Bubur Lambuk</title>
+    <desc lang="en">Kapsul edaran bubur lambuk oleh Hijrah Skuad Bubur Lambuk.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210420183000 +0800" stop="20210420185800 +0800" channel="114">
+    <title lang="en">Camca X Limau Nipis</title>
+    <desc lang="en">Camca ini adalah kombinasi program masakan Chef Nabil dan youtuber terkenal Limau Nipis.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210420185800 +0800" stop="20210420190000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210420190000 +0800" stop="20210420190500 +0800" channel="114">
+    <title lang="en">Andai Ini Ramadan Terakhir</title>
+    <desc lang="en">Drama pendek yang membawakan tema Andai Ini Ramadan Terakhir untuk memberi kesedaran kepada masyarakat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210420190500 +0800" stop="20210420193000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Maghrib</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420193000 +0800" stop="20210420200000 +0800" channel="114">
+    <title lang="en">Cinta Ilmu</title>
+    <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E47</episode-num>
+  </programme>
+  <programme start="20210420200000 +0800" stop="20210420203000 +0800" channel="114">
+    <title lang="en">Berita Alhijrah (L)</title>
+    <desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420203000 +0800" stop="20210420205500 +0800" channel="114">
+    <title lang="en">Berjuta Rahsia Al Quran</title>
+    <desc lang="en">Sebuah program dakwah ilmiah berkenaan Al Quran dan fadilatnya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210420205500 +0800" stop="20210420210000 +0800" channel="114">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210420210000 +0800" stop="20210420220000 +0800" channel="114">
+    <title lang="en">60 Minit Bersama...</title>
+    <desc lang="en">60 Minit Bersama adalah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210420220000 +0800" stop="20210420223000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210420223000 +0800" stop="20210420230000 +0800" channel="114">
+    <title lang="en">Jom Tarannum</title>
+    <desc lang="en">Sebuah program yang mengajar alunan bacaan tarannum asas yang dibaca oleh qari dan qariah malaysia dengan bacaan dan sebutan tajwid yang betul .(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210420230000 +0800" stop="20210420235500 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E316</episode-num>
+  </programme>
+  <programme start="20210420235500 +0800" stop="20210421000000 +0800" channel="114">
+    <title lang="en">Waktu Imsak &amp; Berbuka 2021</title>
+    <desc lang="en">Waktu Imsak and Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210421000000 +0800" stop="20210421003000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421003000 +0800" stop="20210421010000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421010000 +0800" stop="20210421030000 +0800" channel="114">
+    <title lang="en">Solat Terawih Masjidil Haram</title>
+    <desc lang="en">Siaran Langsung Solat terawih dari Masjidil Haram.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421030000 +0800" stop="20210421033000 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Sebuah program dakwah ilmiah yang akan mengupas mengenai fadihilat di bulan Ramadan dengan lebih jelas.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210421033000 +0800" stop="20210421043000 +0800" channel="114">
+    <title lang="en">Majlis Ayah</title>
+    <desc lang="en">Program sejam berinteraksi bersama Al-Quran dalam misi #SavingFamilies sempena bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210421043000 +0800" stop="20210421053000 +0800" channel="114">
+    <title lang="en">30 Hari Khatam</title>
+    <desc lang="en">Bersama-sama kita membaca Alquran dengan azam berjaya khatam Al quran di bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E49</episode-num>
+  </programme>
+  <programme start="20210421053000 +0800" stop="20210421060000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Subuh</title>
+    <desc lang="en">Saksikan himpunan video klip selawat, lagu Ketuhanan dan pelbagai kapsul menarik yang memaparkan perkongsian ilmu agama.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421060000 +0800" stop="20210421070000 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E316</episode-num>
+  </programme>
+  <programme start="20210421070000 +0800" stop="20210421092800 +0800" channel="114">
+    <title lang="en">Assalamualaikum (L)</title>
+    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421092800 +0800" stop="20210421093000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210421093000 +0800" stop="20210421100000 +0800" channel="114">
+    <title lang="en">Home Shopping</title>
+    <desc lang="en">Saksikan Rancangan Home Shopping Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210421100000 +0800" stop="20210421110000 +0800" channel="114">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421110000 +0800" stop="20210421113000 +0800" channel="114">
+    <title lang="en">Jom Shoppe</title>
+    <desc lang="en">Saksikan Rancangan Jom Shoppe Slot.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20210421113000 +0800" stop="20210421120000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210421120000 +0800" stop="20210421130000 +0800" channel="114">
+    <title lang="en">My #Qurantime (L)</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421130000 +0800" stop="20210421130200 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210421130200 +0800" stop="20210421133000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Zohor</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421133000 +0800" stop="20210421140000 +0800" channel="114">
+    <title lang="en">Jejak Bumi Anbiya</title>
+    <desc lang="en">Sebuah dokumentari yang merintis dan merungkai kronologi peristiwa penting dalam sejarah kehidupan dan perjalanan dakwah Nabi Musa AS di bumi Kan'an (Mesir).(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210421140000 +0800" stop="20210421143000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421143000 +0800" stop="20210421150000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421150000 +0800" stop="20210421152800 +0800" channel="114">
+    <title lang="en">Selamat Malam Kekasih</title>
+    <desc lang="en">Maya masih tidak dapat melupakan arwah suaminya Farhan. Pada masa yang sama dia bertemu dengan Misyal, seorang graduan UIA yang mengambil jurusan syariah. Abang iparnya juga cuba memikat Maya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20210421152800 +0800" stop="20210421153000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210421153000 +0800" stop="20210421160000 +0800" channel="114">
+    <title lang="en">Kafa D Hijrah</title>
+    <desc lang="en">Pembelajaran Kelas Al-Quran dan Fardu Ain (KAFA) disiarkan di kaca tv alhijrah dengan merealisasikan sebuah Pelan TV pendidikan KAFA untuk tahun 1 - 6.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20210421160000 +0800" stop="20210421163000 +0800" channel="114">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210421163000 +0800" stop="20210421170000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210421170000 +0800" stop="20210421172500 +0800" channel="114">
+    <title lang="en">My Hadith</title>
+    <desc lang="en">My #HadithTime akan diterbitkan untuk menambah sumber rujukan kita. Hadis adalah sumber rujukan kedua selepas al-Quran.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210421172500 +0800" stop="20210421173000 +0800" channel="114">
+    <title lang="en">Waktu Berbuka</title>
+    <desc lang="en">Waktu Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210421173000 +0800" stop="20210421175500 +0800" channel="114">
+    <title lang="en">Haflah</title>
+    <desc lang="en">Majlis bacaan Al-Quran yang dengan pelbagai Tarannum seperti, Bayaati, Nahwan dan Hijaz yang disampai oleh Qari-Qari Malaysia.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20210421175500 +0800" stop="20210421180000 +0800" channel="114">
+    <title lang="en">Ekpsress Iftar</title>
+    <desc lang="en">Sebuah kapsul masakan dengan menu ringkas dan mudah, sesuai ketika kesuntukan masa.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210421180000 +0800" stop="20210421182500 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Kompilasi program masakan yang ringkas untuk tontonan penonton TV ALhijrah.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210421182500 +0800" stop="20210421183000 +0800" channel="114">
+    <title lang="en">Hijrah Skuad Bubur Lambuk</title>
+    <desc lang="en">Kapsul edaran bubur lambuk oleh Hijrah Skuad Bubur Lambuk.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210421183000 +0800" stop="20210421185800 +0800" channel="114">
+    <title lang="en">Camca X Limau Nipis</title>
+    <desc lang="en">Camca ini adalah kombinasi program masakan Chef Nabil dan youtuber terkenal Limau Nipis.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210421185800 +0800" stop="20210421190000 +0800" channel="114">
+    <title lang="en">Lagu Omar &amp; Hana</title>
+    <desc lang="en">'Omar and Hana' merupakan sebuah animasi Islamik kanak-kanak yang menyampaikan mesej Islamik secara santai menerusi siri dan lagu-lagu menarik khas buat si cilik.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210421190000 +0800" stop="20210421190500 +0800" channel="114">
+    <title lang="en">Andai Ini Ramadan Terakhir</title>
+    <desc lang="en">Drama pendek yang membawakan tema Andai Ini Ramadan Terakhir untuk memberi kesedaran kepada masyarakat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210421190500 +0800" stop="20210421193000 +0800" channel="114">
+    <title lang="en">Panggilan Agung Maghrib</title>
+    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421193000 +0800" stop="20210421200000 +0800" channel="114">
+    <title lang="en">Cinta Ilmu</title>
+    <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E48</episode-num>
+  </programme>
+  <programme start="20210421200000 +0800" stop="20210421203000 +0800" channel="114">
+    <title lang="en">Berita Alhijrah (L)</title>
+    <desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421203000 +0800" stop="20210421205500 +0800" channel="114">
+    <title lang="en">My H.A.U.S</title>
+    <desc lang="en">Program CSR mendekati masyarakat Asnaf yang memerlukan pembaikian rumah mereka dengan memberi fokus kepada golongan tua dan kurang upaya.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20210421205500 +0800" stop="20210421210000 +0800" channel="114">
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Waktu Imsak 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210421210000 +0800" stop="20210421220000 +0800" channel="114">
+    <title lang="en">Analisis (Live)</title>
+    <desc lang="en">Analisis adalah sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210421220000 +0800" stop="20210421223000 +0800" channel="114">
+    <title lang="en">Ittabiouni</title>
+    <desc lang="en">Sebuah program yang menyampaiankan cara ikutan sunnah Rasulullah. Ittabiouni bermaksud 'mengikut'. Dalam konteks ini mengikut contoh dan tingkah laku Rasulullah saw.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210421223000 +0800" stop="20210421230000 +0800" channel="114">
+    <title lang="en">Jom Tarannum</title>
+    <desc lang="en">Sebuah program yang mengajar alunan bacaan tarannum asas yang dibaca oleh qari dan qariah malaysia dengan bacaan dan sebutan tajwid yang betul .(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210421230000 +0800" stop="20210421235500 +0800" channel="114">
+    <title lang="en">My #Qurantime</title>
+    <desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E317</episode-num>
+  </programme>
+  <programme start="20210421235500 +0800" stop="20210422000000 +0800" channel="114">
+    <title lang="en">Waktu Imsak &amp; Berbuka</title>
+    <desc lang="en">Waktu Imsak and Berbuka Puasa 2021.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210422000000 +0800" stop="20210422010000 +0800" channel="114">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.(n)</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210422010000 +0800" stop="20210422030000 +0800" channel="114">
+    <title lang="en">Solat Terawih Masjidil Haram (L)</title>
+    <desc lang="en">Siaran Langsung Solat terawih dari Masjidil Haram.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+  </programme>
+  <programme start="20210422030000 +0800" stop="20210422033000 +0800" channel="114">
+    <title lang="en">Ihya Ramadan 2021</title>
+    <desc lang="en">Sebuah program dakwah ilmiah yang akan mengupas mengenai fadihilat di bulan Ramadan dengan lebih jelas.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210422033000 +0800" stop="20210422043000 +0800" channel="114">
+    <title lang="en">Majlis Ayah</title>
+    <desc lang="en">Program sejam berinteraksi bersama Al-Quran dalam misi #SavingFamilies sempena bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210422043000 +0800" stop="20210422053000 +0800" channel="114">
+    <title lang="en">30 Hari Khatam</title>
+    <desc lang="en">Bersama-sama kita membaca Alquran dengan azam berjaya khatam Al quran di bulan Ramadan.(n)</desc>
+    <category lang="en">Factual &amp; Documentary</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">E53</episode-num>
+  </programme>
+  <programme start="20210422053000 +0800" stop="20210422060000 +0800" channel="114">
     <title lang="en">Panggilan Agung Subuh</title>
     <desc lang="en">Saksikan himpunan video klip selawat, lagu Ketuhanan dan pelbagai kapsul menarik yang memaparkan perkongsian ilmu agama.(n)</desc>
     <category lang="en">Factual &amp; Documentary</category>
