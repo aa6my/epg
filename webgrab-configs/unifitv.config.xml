@@ -31,6 +31,8 @@
     <channel update="i" site="astro.com.my" site_id="115" xmltv_id="108">8TV</channel>
     <channel update="i" site="astro.com.my" site_id="48" xmltv_id="109">TV9</channel>
     <channel update="i" site="astro.com.my" site_id="149" xmltv_id="114">Al-Hijrah</channel>
+    <channel update="i" site="astro.com.my" site_id="322" xmltv_id="509">Nat Geo Wild HD</channel>
+    <channel update="i" site="astro.com.my" site_id="140" xmltv_id="510">National Geographic HD</channel>
     <channel update="i" site="astro.com.my" site_id="199" xmltv_id="511">Nat Geo People HD</channel>
     <channel update="i" site="astro.com.my" site_id="295" xmltv_id="611">CNA HD</channel>
     <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="612">Euronews</channel>
@@ -47,12 +49,15 @@
     <channel update="i" site="astro.com.my" site_id="151" xmltv_id="401">FOX Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="170" xmltv_id="403">FOX Family Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="184" xmltv_id="402">FOX Action Movies HD</channel>
+<channel update="i" site="nowtv.now.com" site_id="en_us#108" xmltv_id="233">NowJelli</channel>
     <channel update="i" site="astro.com.my" site_id="274" xmltv_id="201">tvN Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="190" xmltv_id="211">tvN HD</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5571" xmltv_id="228">SCM</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5573" xmltv_id="226">SCM Legend</channel>
     <channel update="i" site="astro.com.my" site_id="388" xmltv_id="232">Star Chinese Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="5668" xmltv_id="331">SONY MAX</channel>
+    <channel update="i" site="nowtv.now.com" site_id="en_us#774" xmltv_id="342">Sony SAB</channel>
+    <channel update="i" site="nowtv.now.com" site_id="en_us#771" xmltv_id="343">Sony SET</channel>
+    <channel update="i" site="nowtv.now.com" site_id="en_us#772" xmltv_id="331">SONY MAX</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5418" xmltv_id="408">Paramount Network (HD)</channel>
     <channel update="i" site="astro.com.my" site_id="270" xmltv_id="451">Warner TV HD</channel>
     <channel update="i" site="astro.com.my" site_id="137" xmltv_id="455">FOXlife HD</channel>
