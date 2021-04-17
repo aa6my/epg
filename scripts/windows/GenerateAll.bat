@@ -8,6 +8,7 @@ del G:\git-working\epg\astro.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\astro.xml" G:\git-working\epg\astro.xml
+fart astro.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\astro.xml.gz astro.xml
 git add astro.xml compressed/astro.xml.gz
 git commit -m "Astro EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT"
@@ -26,6 +27,7 @@ del G:\git-working\epg\unifitv.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\unifitv.xml" G:\git-working\epg\unifitv.xml
+fart unifitv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\unifitv.xml.gz unifitv.xml
 git add unifitv.xml compressed/unifitv.xml.gz
 git commit -m "unifi TV EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT"
@@ -44,6 +46,7 @@ del G:\git-working\epg\rtmklik.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\rtmklik.xml" G:\git-working\epg\rtmklik.xml
+fart rtmklik.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\rtmklik.xml.gz rtmklik.xml
 git add rtmklik.xml compressed/rtmklik.xml.gz
 git commit -m "rtmklik EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT"
@@ -63,6 +66,7 @@ del G:\git-working\epg\mytv.xml /Q
 cd G:\git-working\epg
 G:
 copy "%USERPROFILE%\AppData\Local\WebGrab+Plus\mytv.xml" G:\git-working\epg\mytv.xml
+fart mytv.xml "(n)</desc>" "</desc>"
 tar -czvf compressed\mytv.xml.gz mytv.xml
 git add mytv.xml compressed/mytv.xml.gz
 git commit -m "MYTV Broadcasting EPG from %date:~4,11% (7 Days) Generated at %date:~4,11% %date:~0,3% %time:~0,2%:%time:~3,2%:%time:~6,2% MYT"
