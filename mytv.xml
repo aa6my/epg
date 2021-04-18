@@ -87,10 +87,6 @@
     <display-name lang="en">ASYIK FM</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20210417000000 +0000" stop="20210417235900 +0000" channel="CHN">
-    <title lang="en">Channel Information Not Available</title>
-    <desc lang="en">There are no channel informations for this channel yet.</desc>
-  </programme>
   <programme start="20210418000000 +0000" stop="20210418235900 +0000" channel="CHN">
     <title lang="en">Channel Information Not Available</title>
     <desc lang="en">There are no channel informations for this channel yet.</desc>
@@ -144,6 +140,10 @@
     <desc lang="en">There are no channel informations for this channel yet.</desc>
   </programme>
   <programme start="20210501000000 +0000" stop="20210501235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.</desc>
+  </programme>
+  <programme start="20210502000000 +0000" stop="20210502235900 +0000" channel="CHN">
     <title lang="en">Channel Information Not Available</title>
     <desc lang="en">There are no channel informations for this channel yet.</desc>
   </programme>
@@ -12000,13 +12000,154 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSEOC.jpg" />
+  </programme>
+  <programme start="20210418080000 +0800" stop="20210418090000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418090000 +0800" stop="20210418100000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSOHN.jpg" />
+  </programme>
+  <programme start="20210418100000 +0800" stop="20210418110000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418110000 +0800" stop="20210418120000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418120000 +0800" stop="20210418130000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418130000 +0800" stop="20210418140000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418140000 +0800" stop="20210418150000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXBX.jpg" />
+  </programme>
+  <programme start="20210418150000 +0800" stop="20210418160000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418160000 +0800" stop="20210418170000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418170000 +0800" stop="20210418180000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418180000 +0800" stop="20210418190000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418190000 +0800" stop="20210418200000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418200000 +0800" stop="20210418210000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418210000 +0800" stop="20210418220000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418220000 +0800" stop="20210418230000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210418230000 +0800" stop="20210419000000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419000000 +0800" stop="20210419010000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419010000 +0800" stop="20210419020000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419020000 +0800" stop="20210419030000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXBX.jpg" />
+  </programme>
+  <programme start="20210419030000 +0800" stop="20210419040000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419040000 +0800" stop="20210419050000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419050000 +0800" stop="20210419060000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419060000 +0800" stop="20210419070000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20210419070000 +0800" stop="20210419080000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSEOC.jpg" />
   </programme>
   <programme start="20210419080000 +0800" stop="20210419090000 +0800" channel="120">
     <title lang="en">Go Shop</title>
@@ -12019,15 +12160,8 @@
     <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSOHN.jpg" />
   </programme>
   <programme start="20210419100000 +0800" stop="20210419110000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210419110000 +0800" stop="20210419120000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
@@ -12044,23 +12178,17 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRSBB.jpg" />
   </programme>
   <programme start="20210419140000 +0800" stop="20210419150000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXBX.jpg" />
   </programme>
-  <programme start="20210419150000 +0800" stop="20210419153000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210419153000 +0800" stop="20210419160000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+  <programme start="20210419150000 +0800" stop="20210419160000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
@@ -12093,6 +12221,7 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JQUPX.jpg" />
   </programme>
   <programme start="20210419210000 +0800" stop="20210419220000 +0800" channel="120">
     <title lang="en">Go Shop</title>
@@ -12100,7 +12229,154 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20210419220000 +0800" stop="20210419230000 +0800" channel="120">
+  <programme start="20210419220000 +0800" stop="20210419223000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419223000 +0800" stop="20210419230000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210419230000 +0800" stop="20210420000000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420000000 +0800" stop="20210420010000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420010000 +0800" stop="20210420020000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSOHN.jpg" />
+  </programme>
+  <programme start="20210420020000 +0800" stop="20210420030000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420040000 +0800" stop="20210420050000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420050000 +0800" stop="20210420060000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420060000 +0800" stop="20210420070000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420070000 +0800" stop="20210420080000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSOHN.jpg" />
+  </programme>
+  <programme start="20210420080000 +0800" stop="20210420090000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420090000 +0800" stop="20210420100000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420100000 +0800" stop="20210420110000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420110000 +0800" stop="20210420120000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXCZ.jpg" />
+  </programme>
+  <programme start="20210420120000 +0800" stop="20210420123000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420123000 +0800" stop="20210420130000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420130000 +0800" stop="20210420140000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420140000 +0800" stop="20210420150000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420150000 +0800" stop="20210420160000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420160000 +0800" stop="20210420170000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420170000 +0800" stop="20210420180000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420180000 +0800" stop="20210420190000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420190000 +0800" stop="20210420200000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420200000 +0800" stop="20210420210000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210420210000 +0800" stop="20210420220000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
@@ -12113,6 +12389,153 @@
     <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20210420230000 +0800" stop="20210421000000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421000000 +0800" stop="20210421010000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421010000 +0800" stop="20210421020000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421020000 +0800" stop="20210421030000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXCZ.jpg" />
+  </programme>
+  <programme start="20210421030000 +0800" stop="20210421040000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421040000 +0800" stop="20210421043000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421043000 +0800" stop="20210421050000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421050000 +0800" stop="20210421060000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421060000 +0800" stop="20210421070000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421070000 +0800" stop="20210421080000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421080000 +0800" stop="20210421090000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421090000 +0800" stop="20210421100000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421100000 +0800" stop="20210421110000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421110000 +0800" stop="20210421120000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421120000 +0800" stop="20210421130000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421130000 +0800" stop="20210421140000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRSAN.jpg" />
+  </programme>
+  <programme start="20210421140000 +0800" stop="20210421150000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSJVB.jpg" />
+  </programme>
+  <programme start="20210421150000 +0800" stop="20210421160000 +0800" channel="120">
+    <title lang="en">(L) Go Shop</title>
+    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421160000 +0800" stop="20210421170000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421170000 +0800" stop="20210421180000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421180000 +0800" stop="20210421190000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421190000 +0800" stop="20210421200000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421200000 +0800" stop="20210421210000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421210000 +0800" stop="20210421220000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210421220000 +0800" stop="20210421230000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
@@ -12141,7 +12564,6 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRXBX.jpg" />
   </programme>
   <programme start="20210422030000 +0800" stop="20210422040000 +0800" channel="120">
     <title lang="en">Go Shop</title>
@@ -12154,24 +12576,21 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JRSAN.jpg" />
   </programme>
   <programme start="20210422050000 +0800" stop="20210422060000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSJVB.jpg" />
   </programme>
   <programme start="20210422060000 +0800" stop="20210422070000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210422070000 +0800" stop="20210422080000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSEOC.jpg" />
   </programme>
   <programme start="20210422080000 +0800" stop="20210422090000 +0800" channel="120">
     <title lang="en">Go Shop</title>
@@ -12191,6 +12610,12 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
+  <programme start="20210422110000 +0800" stop="20210422120000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
   <programme start="20210422120000 +0800" stop="20210422130000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
@@ -12202,27 +12627,35 @@
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSJVB.jpg" />
   </programme>
   <programme start="20210422140000 +0800" stop="20210422150000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSOGI.jpg" />
   </programme>
-  <programme start="20210422150000 +0800" stop="20210422160000 +0800" channel="120">
+  <programme start="20210422150000 +0800" stop="20210422153000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210422153000 +0800" stop="20210422163000 +0800" channel="120">
     <title lang="en">(L) Go Shop</title>
     <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20210422160000 +0800" stop="20210422170000 +0800" channel="120">
+  <programme start="20210422163000 +0800" stop="20210422170000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
   <programme start="20210422170000 +0800" stop="20210422180000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
+    <title lang="en">HD GoShop 8</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
@@ -12239,7 +12672,13 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20210422200000 +0800" stop="20210422210000 +0800" channel="120">
+  <programme start="20210422200000 +0800" stop="20210422203000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
+  <programme start="20210422203000 +0800" stop="20210422210000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
@@ -12251,13 +12690,7 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20210422220000 +0800" stop="20210422223000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210422223000 +0800" stop="20210422230000 +0800" channel="120">
+  <programme start="20210422220000 +0800" stop="20210422230000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
@@ -12287,277 +12720,26 @@
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
+  <programme start="20210423030000 +0800" stop="20210423040000 +0800" channel="120">
+    <title lang="en">Go Shop</title>
+    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">TV Shows (General)</category>
+  </programme>
   <programme start="20210423040000 +0800" stop="20210423050000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JSJVB.jpg" />
   </programme>
-  <programme start="20210423050000 +0800" stop="20210423060000 +0800" channel="120">
+  <programme start="20210423050000 +0800" stop="20210423053000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
     <category lang="en">TV Shows (General)</category>
   </programme>
-  <programme start="20210423060000 +0800" stop="20210423070000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423070000 +0800" stop="20210423080000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423080000 +0800" stop="20210423090000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423090000 +0800" stop="20210423100000 +0800" channel="120">
-    <title lang="en">(L) Go Shop</title>
-    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423100000 +0800" stop="20210423110000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423110000 +0800" stop="20210423120000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423120000 +0800" stop="20210423123000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423123000 +0800" stop="20210423130000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423130000 +0800" stop="20210423140000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423140000 +0800" stop="20210423150000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423150000 +0800" stop="20210423160000 +0800" channel="120">
-    <title lang="en">(L) Go Shop</title>
-    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423160000 +0800" stop="20210423170000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423170000 +0800" stop="20210423180000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423180000 +0800" stop="20210423190000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423190000 +0800" stop="20210423200000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423200000 +0800" stop="20210423210000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423210000 +0800" stop="20210423220000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423220000 +0800" stop="20210423230000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210423230000 +0800" stop="20210424000000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424000000 +0800" stop="20210424010000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424010000 +0800" stop="20210424020000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424020000 +0800" stop="20210424030000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424030000 +0800" stop="20210424040000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424040000 +0800" stop="20210424043000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424043000 +0800" stop="20210424050000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424050000 +0800" stop="20210424060000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424060000 +0800" stop="20210424070000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424070000 +0800" stop="20210424080000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424080000 +0800" stop="20210424090000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424090000 +0800" stop="20210424100000 +0800" channel="120">
-    <title lang="en">(L) Go Shop</title>
-    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424100000 +0800" stop="20210424110000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424110000 +0800" stop="20210424120000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424120000 +0800" stop="20210424130000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424130000 +0800" stop="20210424140000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424140000 +0800" stop="20210424150000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424150000 +0800" stop="20210424160000 +0800" channel="120">
-    <title lang="en">(L) Go Shop</title>
-    <desc lang="en">Siaran Langsung! Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424160000 +0800" stop="20210424170000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424170000 +0800" stop="20210424180000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424180000 +0800" stop="20210424190000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424190000 +0800" stop="20210424200000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424200000 +0800" stop="20210424210000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424210000 +0800" stop="20210424220000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424220000 +0800" stop="20210424230000 +0800" channel="120">
-    <title lang="en">Go Shop</title>
-    <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">TV Shows (General)</category>
-  </programme>
-  <programme start="20210424230000 +0800" stop="20210425000000 +0800" channel="120">
+  <programme start="20210423053000 +0800" stop="20210423063000 +0800" channel="120">
     <title lang="en">Go Shop</title>
     <desc lang="en">Rancangan yang memberi informasi mengenai pelbagai produk yang boleh didapati di Go Shop.</desc>
     <category lang="en">TV Show</category>
