@@ -11,8 +11,11 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
 - BBC World News HD (String was not recognized as a valid DateTime)
     - Changed the source to bbc.co.uk
 
-## Asking for WebGrab++ Encrypted SiteIni access
-Since I don't have access to PayPal, I can't donate to WebGrab++. If anyone can help me with this (example help me pay for WebGrab++ then I will transfer back the money to you), please email me for enquiries (tanyuxuan2005@gmail.com).
+## Updates
+FOUND: unifi PlayTV is powered by Huawei's Envision Video Platform.
+ - [Here is an example of the EPG data for this platform.](https://gist.github.com/weareblahs/89fc50e4011094628749b6362187e669)
+ - If someone made a SiteIni for unifi TV (Unencrypted), please contact me through [my email](https://gist.github.com/weareblahs/dccd48e74be31ec770a09036d97c02a8) and I will process it as soon as possible to update the unifi TV Guide through unifi.com.my.
+   - the SiteIni file will not be uploaded into GitHub.
 ## Auto-update bot information
 The auto-update process will run at everyday around 3pm to 4pm and 10pm.
 
@@ -33,10 +36,10 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 
 # Current Channel Statistics
 ## Total Channels
-- Astro: 192 (including Astro First, Astro Best and Radio Channels)
-- unifi TV: 47 (Partial Channels Only)
+- Astro: 191 (including Astro First, Astro Best and Radio Channels)
+- unifi TV: 54 (Partial Channels Only)
 - RTM Klik: 8
-- MYTV Broadcasting: 21  
+- MYTV Broadcasting: 21
 ## Channel Source
 - Astro: astro.com.my
 - unifi TV: astro.com.my / i-cable.com / singtel.com.sg
