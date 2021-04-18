@@ -11,6 +11,8 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
 - BBC World News HD (String was not recognized as a valid DateTime)
     - Changed the source to bbc.co.uk
 
+## Asking for WebGrab++ Encrypted SiteIni access
+Since I don't have access to PayPal, I can't donate to WebGrab++. If anyone can help me with this (example help me pay for WebGrab++ then I will transfer back the money to you), please email me for enquiries (tanyuxuan2005@gmail.com).
 ## Auto-update bot information
 The auto-update process will run at everyday around 3pm to 4pm and 10pm.
 
