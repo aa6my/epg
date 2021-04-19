@@ -43,13 +43,16 @@
     <channel update="i" site="singteltv.com.sg" site_id="5157" xmltv_id="643">NHK World – Japan (HD)</channel>
     <channel update="i" site="astro.com.my" site_id="141" xmltv_id="706">FOX Sports HD</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5623" xmltv_id="311">Colors Tamil HD</channel>
+    <channel update="i" site="uk-sky.com" site_id="1105" xmltv_id="333">Colors Cineplex</channel>
+    <channel update="i" site="tvscheduleindia.com" site_id="Polimer-Tv" xmltv_id="312">Polimer</channel>
+    <channel update="i" site="tvscheduleindia.com" site_id="Jaya-Max" xmltv_id="313">Jaya Max</channel>
     <channel update="i" site="astro.com.my" site_id="290" xmltv_id="707">FOX Sports 2 HD</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5652" xmltv_id="341">Colors</channel>
     <channel update="i" site="astro.com.my" site_id="291" xmltv_id="708">FOX Sports 3</channel>
     <channel update="i" site="astro.com.my" site_id="151" xmltv_id="401">FOX Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="170" xmltv_id="403">FOX Family Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="184" xmltv_id="402">FOX Action Movies HD</channel>
-<channel update="i" site="nowtv.now.com" site_id="108" xmltv_id="233">NowJelli</channel>
+    <channel update="i" site="nowtv.now.com" site_id="108" xmltv_id="233">NowJelli</channel>
     <channel update="i" site="astro.com.my" site_id="274" xmltv_id="201">tvN Movies HD</channel>
     <channel update="i" site="astro.com.my" site_id="190" xmltv_id="211">tvN HD</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5571" xmltv_id="228">SCM</channel>
@@ -57,17 +60,19 @@
     <channel update="i" site="astro.com.my" site_id="388" xmltv_id="232">Star Chinese Channel</channel>
     <channel update="i" site="nowtv.now.com" site_id="774" xmltv_id="342">Sony SAB</channel>
     <channel update="i" site="nowtv.now.com" site_id="771" xmltv_id="343">Sony SET</channel>
-    <channel update="i" site="nowtv.now.com" site_id="772" xmltv_id="331">SONY MAX</channel>
+    <channel update="i" site="sfr.fr" site_id="531" xmltv_id="529">Luxe TV</channel>
+    <channel update="i" site="uk-sky.com" site_id="2603" xmltv_id="331">SONY MAX</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5418" xmltv_id="408">Paramount Network (HD)</channel>
     <channel update="i" site="astro.com.my" site_id="270" xmltv_id="451">Warner TV HD</channel>
     <channel update="i" site="astro.com.my" site_id="137" xmltv_id="455">FOXlife HD</channel>
     <channel update="i" site="astro.com.my" site_id="180" xmltv_id="453">FOX HD</channel>
     <channel update="i" site="astro.com.my" site_id="132" xmltv_id="454">FX HD</channel>
+    <channel update="i" site="peotv.com" site_id="cinemaworld/82" xmltv_id="411">CinemaWorld</channel>
     <channel update="i" site="singteltv.com.sg" site_id="5021" xmltv_id="521">Travel Channel HD</channel>
     <channel update="i" site="epg.i-cable.com" site_id="317" xmltv_id="473">Blue Ant Entertainment</channel>
     <channel update="i" site="epg.i-cable.com" site_id="720" xmltv_id="512">BBC Lifestyle</channel>
     <channel update="i" site="epg.i-cable.com" site_id="721" xmltv_id="501">BBC Earth</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="5040" xmltv_id="652">France 24 (French) </channel>
+    <channel update="i" site="sfr.fr" site_id="529" xmltv_id="652">France 24 (French)</channel>
     <channel update="i" site="astro.com.my" site_id="420" xmltv_id="531">MTV</channel>
     <channel update="i" site="epg.i-cable.com" site_id="510" xmltv_id="550">Dreamworks</channel>
     <channel update="i" site="astro.com.my" site_id="370" xmltv_id="554">Nickelodeon HD</channel>
@@ -77,5 +82,5 @@
     <channel update="i" site="astro.com.my" site_id="94" xmltv_id="562">Baby TV HD</channel>
     <channel update="i" site="bbc.co.uk" site_id="433" xmltv_id="601">BBC World News</channel>
     <channel update="i" site="astro.com.my" site_id="101" xmltv_id="602">Al Jazeera English</channel>
-    <channel update="i" site="astro.com.my" site_id="155" xmltv_id="603">Sky News HD</channel>
+    <channel update="i" site="uk-sky.com" site_id="1404" xmltv_id="603">Sky News</channel>
 </settings>
