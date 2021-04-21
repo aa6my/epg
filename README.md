@@ -1,11 +1,12 @@
 ## For your information
 Original EPG repository is in an archived state. See https://github.com/weareblahs/epg-old for the original one.
 ## Currently encountered problems
-- Radio channels EPG unavailable on Astro.
 - Unavailable channels on Astro follows (due to an error):
   - ABO Movies Tayangan Hebat HD (String was not recognized as a valid DateTime)
   - BOO HD (String was not recognized as a valid DateTime)
 ## Solved problems
+- Radio channels EPG unavailable on Astro.
+  - Solved: Caused by Hitz FM (which Astro didn't set the time properly, according to WebGrab++). Removed this channel (temporarily).
 - Some channels unavailable on Astro.
   - Fixed: Changed the unavailable WebGrab ID from SD channel ID to HD channel ID.
 - BBC World News HD (String was not recognized as a valid DateTime)
