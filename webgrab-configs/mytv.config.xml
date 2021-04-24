@@ -30,9 +30,11 @@
 	<channel update="i" site="astro.com.my" site_id="93" xmltv_id="107">NTV7</channel>
     <channel update="i" site="astro.com.my" site_id="115" xmltv_id="108">8TV</channel>
     <channel update="i" site="astro.com.my" site_id="48" xmltv_id="109">TV9</channel>
+    <channel update="i" site="astro.com.my" site_id="433" xmltv_id="112">Awesome TV</channel>
 	<channel update="i" site="astro.com.my" site_id="149" xmltv_id="114">Al-Hijrah</channel>
     <channel update="i" site="myklik.rtm.gov.my" site_id="517" xmltv_id="113">TV6</channel>
     <channel update="i" site="myklik.rtm.gov.my" site_id="311" xmltv_id="110">TV Okey</channel>
+    <channel update="i" site="astro.com.my" site_id="429" xmltv_id="122">TVS</channel>
     <channel update="i" site="myklik.rtm.gov.my" site_id="312" xmltv_id="123">BERITA RTM</channel>
     <channel update="i" site="myklik.rtm.gov.my" site_id="272" xmltv_id="111">TV SUKAN</channel>
 	<channel update="i" site="astro.com.my" site_id="160" xmltv_id="121">BERNAMA</channel>
