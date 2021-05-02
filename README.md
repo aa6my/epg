@@ -4,6 +4,7 @@ Original EPG repository is in an archived state. See https://github.com/wearebla
 - Unavailable channels on Astro follows (due to an error):
   - ABO Movies Tayangan Hebat HD (String was not recognized as a valid DateTime)
   - BOO HD (String was not recognized as a valid DateTime)
+  - FOX Family Movies HD (String was not recognized as a valid DateTime)
 ## Solved problems
 - Radio channels EPG unavailable on Astro.
   - Solved: Caused by Hitz FM (which Astro didn't set the time properly, according to WebGrab++). Removed this channel (temporarily).
