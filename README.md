@@ -48,9 +48,10 @@ This repository is for Malaysian TV Channels (and some Southeast Asian ones, too
 - RTM Klik: rtmklik.rtm.gov.my
 - MYTV Broadcasting: rtmklik.rtm.gov.my / astro.com.my  
 ## XMLTV ID Type
-- Astro: Channel Number (Astro GO Exclusive Channels, add AGEC + Channel order from [this website](https://content.astro.com.my/) )
+- Astro: Channel Number
+   - [Astro GO Exclusive Channels XMLID](https://weareblahs.github.io/misc/AGEC.md)
 - unifi TV: Channel Number  
-- RTM Klik: ``RTMK`` Prefix with channel order in the "Siaran TV" part of [this website](https://rtmklik.rtm.gov.my/)    
+- RTM Klik: [Channel List Here](https://weareblahs.github.io/misc/RTMK.md)
 - MYTV Broadcasting: Channel Number  
 ## Download Links / Links to copy into your IPTV player
 - Astro: https://weareblahs.github.io/epg/astro.xml
