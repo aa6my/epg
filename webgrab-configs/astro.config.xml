@@ -214,6 +214,6 @@
     <channel update="i" site="astro.com.my" site_id="293" xmltv_id="877">GO XUAN</channel>
     <channel update="i" site="astro.com.my" site_id="304" xmltv_id="878">Radio ARENA</channel>
     <channel update="i" site="astro.com.my" site_id="266" xmltv_id="AGEC1">K-Plus HD</channel>
-    <channel update="i" site="astro.com.my" site_id="287" xmltv_id="AGEC3">DW English</channel>
-    <channel update="i" site="astro.com.my" site_id="289" xmltv_id="AGEC4">France24</channel>
+    <channel update="i" site="astro.com.my" site_id="287" xmltv_id="AGEC2">DW English</channel>
+    <channel update="i" site="astro.com.my" site_id="289" xmltv_id="AGEC3">France24</channel>
 </settings>
